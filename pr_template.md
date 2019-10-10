@@ -1,16 +1,15 @@
 <!--- Prerequisites : Create a new directory in recipes and add your files there. --->
-<!--- Copy below text in you recipe .md file and follow examples --->
+<!--- This is how your .md files should look like --->
 
 <!--- Title, Name of the recipe --->
-# [MyAwesomeCourse]
 
+# [MyAwesomeCourse]
 
 <!--- Optional : Picture of the end result of the recipe --->
 <!--- Example [Roasted Tomatosalsa](loc/of/file/in/repo.jpg) --->
 
+## Description
 
-
-  ## Description
   <!--- Description of why others should use this recipe --->
   <!--- Example :  
   
@@ -18,9 +17,8 @@
   
   --->
 
+## Ingredients
 
-
-  ## Ingredients
   <!--- This needs to be a bullet list with the required
     ingredients described in SI or else provide a conversion to SI
   --->
@@ -33,16 +31,18 @@
   * 500g of fresh tomato 
   
   --->
-  
-  ## Steps
+
+## Steps
+
   <!--- Steps to recreate the receipt. Explicit described --->
   <!--- Example : 
   1. Hotten skillet to 100 degrees Celsius 
   1. Put mashed tomatoes in the skillet
   1. ....
-  --->  
-  
-  ## Tags
+  --->
+
+## Tags
+
   <!--- Optional tags to users to search for --->
   <!---
   
@@ -50,10 +50,11 @@
   * Snacks
   
   --->
-  ## Credits
+
+## Credits
+
 <!--- Optional credits --->
 
-
-<!--- Lastly but not least, add to your recipe to README.md 
+<!--- Lastly but not least, add to your recipe to README.md
 *  [Name of Recipe](/recipes/name-of-dir/name-of-md.md)
----> 
+--->
